@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.params=stellen\ hoehe
+comment0.target=Segment8x(int,\ int)
+comment1.params=neuesX\ neuesY\ stellen\ hoehe
+comment1.target=Segment8x(int,\ int,\ int,\ int)
+comment10.params=dZahl\ dp
+comment10.target=void\ anzeige(double,\ int)
+comment10.text=\r\n\ DeAnzeige\ einer\ Dezimalzahl\ nachkomma\ Stelle\ des\ Dezimalpunkts\ -1\ \=\ ohne\ 0\ \=\r\n\ ganz\ rechts\ n\ \=\ neben\ der\ n-ten\ Stelle\ von\ rechts\r\n
+comment11.params=
+comment11.target=void\ laufen()
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=behaelter\ neuesX\ neuesY\ stellen\ hoehe
+comment2.target=Segment8x(IContainer,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=BasisComponente\ getBasisComponente()
+comment3.text=\r\n\ \ Das\ Interface\ IComponente\ fordert\ eine\ Methode\ die\ eine\ BasisComponente\ zur\uFFFDckliefert.\r\n\ \ Sie\ wird\ ben\uFFFDtigt,\ um\ ein\ Objekt\ zu\ einem\ anderen\ Beh\uFFFDlter\ hinzuzuf\uFFFDgen\r\n
+comment4.params=
+comment4.target=void\ setzePositionSiebensegmentanzeige()
+comment5.params=x\ y
+comment5.target=void\ setzePosition(int,\ int)
+comment6.params=dx\ dy
+comment6.target=void\ verschieben(int,\ int)
+comment7.params=hoehe
+comment7.target=void\ setzeGroesse(int)
+comment8.params=neueFarbe
+comment8.target=void\ setzeFarbe(java.lang.String)
+comment8.text=\r\n\ g\uFFFDltige\ Farben\:\ "rot",\ "gelb",\ "blau",\ "gruen",\ "lila"\ ,\ "schwarz"\ ,\r\n\ "weiss"\ ,\ "grau","pink","magenta","orange","cyan","hellgrau"\r\n
+comment9.params=zahl
+comment9.target=void\ anzeige(long)
+comment9.text=\r\n\ Anzeige\ einer\ ganzen\ Zahl\r\n\ \r\n\ @param\ zahl\r\n
+numComments=13

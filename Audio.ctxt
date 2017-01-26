@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=Audio(java.lang.String)
+comment1.params=
+comment1.target=void\ play()
+comment2.params=
+comment2.target=void\ playEndlos()
+comment3.params=
+comment3.target=void\ stop()
+numComments=4

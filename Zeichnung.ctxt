@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Zeichenflaeche\ gibZeichenflaeche()
+comment1.params=
+comment1.target=javax.swing.JFrame\ gibJFrame()
+comment10.params=deltaX
+comment10.target=void\ setzeDeltaX(int)
+comment11.params=deltaY
+comment11.target=void\ setzeDeltaY(int)
+comment2.params=
+comment2.target=Zeichnung()
+comment3.params=evt
+comment3.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment4.params=scrollbar
+comment4.target=void\ setzeScrollbar(boolean)
+comment5.params=title
+comment5.target=Zeichnung(java.lang.String)
+comment6.params=title\ mitRaster
+comment6.target=Zeichnung(java.lang.String,\ boolean)
+comment7.params=breite\ hoehe
+comment7.target=void\ setzeFenstergroesse(int,\ int)
+comment8.params=
+comment8.target=void\ setzeRasterEin()
+comment9.params=
+comment9.target=void\ setzeRasterAus()
+numComments=12

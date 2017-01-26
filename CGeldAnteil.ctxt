@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CGeldAnteil()
+comment1.params=betrag
+comment1.target=void\ berechneAnteile(double)
+comment1.text=\ \ Methode\ die\ die\ jeweiligen\ Anteile\ in\ einer\ bestimmten\ Zahl\ berechnet\r\n\ \ @param\ betrag\:\ zahl\ deren\ Anteile\ berechnet\ werden\ soll\r\n
+comment2.params=
+comment2.target=java.util.TreeMap\ getGeldAnteilMap()
+comment3.params=geld_betrag
+comment3.target=int\ getAnteil(double)
+comment3.text=\ \ Methode\ gibt\ den\ Anteil\ eines\ bestimmten\ geld\ betrages\ zur\u00FCck\r\n\ \r\n
+comment4.params=betrag\ geld_betrag
+comment4.target=int\ berechneAnteil(double,\ double)
+comment4.text=\ \ Methode\ berechnet\ den\ Anteil\ von\ geld_betrag\ in\ betrag\ und\r\n\ \ zieht\ den\ Anteil\ multipliziert\ mit\ dem\ geld_betrag\ von\ betrag\ ab\r\n\ \ @param\ betrag\r\n\ \ @param\ geld_betrag\r\n
+comment5.params=zahl
+comment5.target=int\ berechneNachkommastellen(double)
+comment5.text=\ \ Methode\ die\ die\ Nachkommastellen\ eines\ double\ berechnet\r\n\ \ @param\ zahl\:\ double\ dessen\ Nachkommastellen\ berechnet\ werden\ sollen\r\n
+comment6.params=
+comment6.target=void\ info()
+comment6.text=\ \ Method\ die\ alle\ aktuellen\ Anteile\ ausgibt\r\n
+numComments=7

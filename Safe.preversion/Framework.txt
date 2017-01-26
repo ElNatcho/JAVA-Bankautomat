@@ -1,0 +1,52 @@
+/**
+ * Das Framework ist dem Beispiel BlueJ-Beispiel Shapes nachempfunden.
+ * Die Methoden der Graphikobjekte entsprechen denen des (deutschen) Beispiels
+ * 
+ * Die Komponenten wurden zur besseren Übersicht auf mehrer Unterordner verteilt.
+ * Zur Übersichtlichkeit sollten nicht benötigte Klassen aus dem entgültigen projekt gelöscht werden
+ *
+ * Die Klassen werden durch Menüpunkt Projekt->Importieren in ein (neues) Projekt übernommen
+ *
+ * Ordner Basis ( immer benötigt ) 
+ *       Klasse Zeichnung (JFrame,JPanel,Basisklasse)
+ *       Klasse StaticTools: Klasse mit statischen Methoden 
+ *                                  z.B.: public static void warte(int millisekunden)
+ * 
+ * Ordner Graphik
+ *        Klasse Dreieck
+ *   	  Klasse Kreis
+ *		  Klasse Quadrat
+ *		  Klasse Rechteck
+ *        Klasse Ellipse , auch Segment(gefüllt) oder Bogen
+ *		  Klasse FreiZeichnen ( beispiel für ein JPanel, in das man mit Graphics-methoden zeichnen kann)
+ * 
+ * Ordner GUI
+ *        Klasse Ausgabe (JLabel)
+ *		  Klasse AusgabePanel ( JLabel auf einem JPaanel )
+ *		  Klasse ChkTaste ( JCheckBox  )
+ *		  Klasse Eingabefeld ( JTextField )
+ *		  Klasse Taste ( JButton )
+ *        Klasse Taktgeber (Timer) , für wiederkehrende oder einmalige Taktsignale
+ *		  Klasse Umschalttaste ( JToggleButton )
+ *		  Klasse UmschaltTasteMitAnzeige ( Klasse Umschalttaste mit Ausgabepanel )
+ *
+ *		  Interface ITuWas 
+ *		      Will man eine Callback-Funkution für die Buttons oder das Eingabefeld verwenden, 
+ *			  so muss die Klasse mit der Callbackfunktion das Interface ITuWas haben
+ *
+ *  Ordner Siebensegment
+ *        Klasse Segment 
+ *        Klasse Siebensegment: eine Siebensegmentanzeige 
+ *        Klasse Siebensegment8x: ein Feld von Siebensegmentanzeigen 
+ *        
+ *        Die Klassen Siebensegment und Siebensegment8x können auch als Schülerarbeit 
+ *        aus der Klasse Segment erstellt werden
+ *
+ * @author: Hans Witt 
+ * @version: 1.0 
+ * @version: 2.0 83.8.2008)
+ *         neben Ergänzungen 
+ *         Callback geändert: Eine Callback-Methode. Verschiedene Ereignisquellen werden über ID + nr gemeldet
+ *         
+ * 
+ */

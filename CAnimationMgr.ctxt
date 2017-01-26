@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=CAnimationMgr(int,\ int)
+comment1.params=file
+comment1.target=void\ lade_Kreditkarte(Bilddatei)
+comment1.text=\ \ Methode\ die\ das\ Bild\ der\ Kreditkarte\ laed\ und\ abspeichert\r\n\ \ @param\ file\:\ Bild\ das\ fuer\ die\ Kreditkarte\ verwendent\ werden\ soll\r\n
+comment2.params=geld_betrag\ file\ x_size\ y_size
+comment2.target=void\ lade_Geld(double,\ Bilddatei,\ int,\ int)
+comment2.text=\ \ Methode\ die\ einen\ Geldscheinem/Geldstueck\ laedt\ und\ in\ _geldBilderListe\ einfuegt\r\n\ \ @param\ geld_betrag\:\ Betrag\ den\ der\ Schein/das\ Stueck\ hat\r\n\ \ @param\ file\ \ \ \ \ \ \ \:\ Bilddatei\ in\ der\ das\ Bild\ des\ Scheins/Stuecks\ gespeichert\ ist\r\n\ \ @param\ x_size\ \ \ \ \ \:\ Breite\ des\ Bildes\r\n\ \ @param\ y_size\ \ \ \ \ \:\ Hoehe\ des\ Bildes\r\n
+comment3.params=betrag
+comment3.target=void\ _build_geldBilder_Liste(double)
+comment3.text=\ \ Methode\ die\ dazu\ genutzt\ wird\ die\ times\ der\ _geldBilder_Liste\ zu\ aktuallisieren\r\n\ \ @param\ betrag\:\ Betrag\ der\ animiert\ werden\ soll\r\n
+comment4.params=Betrag\ x\ y\ x_amount\ y_amount
+comment4.target=void\ geldBetragBewegen(double,\ int,\ int,\ int,\ int)
+comment4.text=\ \ Method\ mit\ der\ die\ Einzahlung\ von\ Geld\ animiert\ wird\r\n\ \ @param\ Betrag\:\ Betrag\ der\ eingezahlt\ wird\r\n\ \ @param\ x\:\ x-Position\ an\ der\ die\ Animation\ statt\ finden\ soll\r\n\ \ @param\ y\:\ y-Position\ an\ der\ die\ Animation\ statt\ finden\ soll\r\n\ \ @param\ x_amount\:\ x\ Wert\ um\ wie\ viel\ das\ Geld\ verschoben\ werden\ sollen\r\n\ \ @parma\ y_amount\:\ y\ Wert\ um\ wie\ viel\ das\ Geld\ verschoben\ werden\ sollen\r\n
+comment5.params=x\ y\ move_amount_x\ move_amount_y
+comment5.target=void\ kreditkarteVerschieben(int,\ int,\ int,\ int)
+comment5.text=\ \ Method\ die\ das\ Verschieben\ der\ Kreditkarte\ animiert\r\n\ \ @param\ x\:\ x-Position\ an\ der\ die\ Animation\ stattfinden\ soll\r\n\ \ @param\ y\:\ y-Position\ an\ der\ die\ Animation\ stattfinden\ soll\r\n\ \ @param\ move_amount_x\:\ Betrag\ wie\ weit\ die\ Karte\ nach\ links\ oder\ rechts\ bewegt\ werden\ soll\r\n\ \ @param\ move_amount_y\:\ Betrag\ wie\ weit\ die\ Karte\ nach\ oben\ oder\ unten\ bewegt\ werden\ soll\r\n
+comment6.params=wert
+comment6.target=void\ kreditkarteAnzeigen(boolean)
+comment6.text=\ \ Methode\ mit\ der\ man\ bestimmen\ kann\ ob\ die\ Kreditkarte\ angezeigt\r\n\ \ werden\ soll\ oder\ nicht\r\n\ \ @param\ wert\:\ Wert\ der\ bestimmt\ ob\ die\ Kk\ angezeigt\ werden\ soll\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ oder\ nicht\r\n
+comment7.params=x\ y\ move_amount_x\ move_amount_y
+comment7.target=void\ kontoauszugVerschieben(int,\ int,\ int,\ int)
+comment7.text=\ \ Methode\ mit\ der\ man\ die\ Bewegung\ eines\ Kontoauszuges\ animieren\ kann\r\n\ \ @param\ x\:\ x-Pos\ an\ der\ die\ Animation\ gestartet\ wird\r\n\ \ @param\ y\:\ y-Pos\ an\ der\ die\ Animation\ gestartet\ wird\r\n\ \ @param\ move_amount_x\:\ Wert\ der\ bestimmt\ wie\ weit\ sich\ das\ bild\ in\ x\ verschiebt\r\n\ \ @param\ move_amount_y\:\ Wert\ der\ bestimmt\ wie\ weit\ sich\ das\ bild\ in\ y\ verschiebt\r\n
+numComments=8

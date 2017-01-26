@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CInputController()
+comment0.text=\ --\ Konstruktor\ --\r\n\ \ \ Reserviert\ bzw\ weist\ _buttonStatusList\ Speicher\ zu\r\n
+comment1.params=key\ ID
+comment1.target=void\ knopfHinzufuegen(Taste,\ int)
+comment1.text=\ \ Methode\ fuegt\ Knoepfe\ hinzu\ bei\ denen\ das\ Druck-Event\ abgefangen\ werden\ soll\r\n\ \ und\ verarbeitet\ werden\ soll.\r\n\ \ @param\ taste\:\ Tasten-Objekt\ deren\ Input-Events\ abgefangen\ werden\ sollen\r\n\ \ @param\ ID\ \ \ \:\ ID\ die\ der\ Knopf\ be\r\n
+comment2.params=ID
+comment2.target=void\ tuWas(int)
+comment2.text=\ \ Implementierung\ der\ Methode\ tuWas,\ da\ diese\ Klasse\ aus\ der\ Klasse\r\n\ \ ITuWas\ erbt.\ Die\ Methode\ f\u00E4ngt\ die\ Input-Events\ der\ verlinkten\ Objekte\r\n\ \ ab\ und\ aktualisiert\ den\ Status\ dieser\ Objekte\r\n\ \ @param\ ID\:\ ID\ des\ Buttons\ der\ Gedr\u00FCckt\ wurde\ \r\n
+comment3.params=taste
+comment3.target=boolean\ wurdeGedrueckt(Taste)
+comment3.text=\ \ Methode\ liefert\ den\ aktuellen\ Status\ der\ Taste\ zurueck\ die\ als\ Parameter\ \u00FCbergeben\ wurde.\r\n\ \ @param\ taste\:\ Taste\ deren\ Status\ abgefragt\ werden\ soll\r\n
+comment4.params=taste
+comment4.target=void\ resetStatus(Taste)
+comment4.text=\ \ Setzt\ den\ Status\ der\ Taste\ die\ als\ Parameter\ \u00FCbergeben\ wird\ auf\ falsch.\r\n\ \ @param\ taste\:\ Taste\ deren\ Status\ auf\ falsch\ gesetzt\ werden\ soll\r\n
+comment5.params=
+comment5.target=void\ info()
+comment5.text=\ \ Gibt\ alle\ Eintraege\ der\ _buttonStatusList\ aus\r\n
+numComments=6

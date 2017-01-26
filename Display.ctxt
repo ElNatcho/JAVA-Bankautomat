@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=posx\ posy\ _x\ _y\ z
+comment0.target=Display(int,\ int,\ int,\ int,\ Zeichnung)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=ID
+comment2.target=void\ sendKeyEvent(int)
+comment3.params=konto
+comment3.target=void\ loginKontonummer(int)
+comment4.params=
+comment4.target=void\ KontoAbmelden()
+comment5.params=ziffer
+comment5.target=void\ handle_tastenfeldInput(int)
+comment6.params=
+comment6.target=void\ sterneRuecksetzen()
+numComments=7

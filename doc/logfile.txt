@@ -1,0 +1,379 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-sourcepath
+L:\Info 10\Geldautomat\Geldautomat
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;L:\Info 10\Geldautomat\Geldautomat
+-d
+L:\Info 10\Geldautomat\Geldautomat\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+-doctitle
+Geldautomat
+-windowtitle
+Geldautomat
+-author
+-version
+-nodeprecated
+-package
+-link
+http://download.oracle.com/javase/8/docs/api/
+L:\Info 10\Geldautomat\Geldautomat/Bild.java
+L:\Info 10\Geldautomat\Geldautomat/Ellipse.java
+L:\Info 10\Geldautomat\Geldautomat/Rechteck.java
+L:\Info 10\Geldautomat\Geldautomat/Eingabefeld.java
+L:\Info 10\Geldautomat\Geldautomat/FeststellTaste.java
+L:\Info 10\Geldautomat\Geldautomat/Segment8x_B.java
+L:\Info 10\Geldautomat\Geldautomat/Bilddatei.java
+L:\Info 10\Geldautomat\Geldautomat/Dreieck.java
+L:\Info 10\Geldautomat\Geldautomat/Segment.java
+L:\Info 10\Geldautomat\Geldautomat/Zeichnung.java
+L:\Info 10\Geldautomat\Geldautomat/SiebenSegment_B.java
+L:\Info 10\Geldautomat\Geldautomat/SiebenSegment.java
+L:\Info 10\Geldautomat\Geldautomat/Quadrat.java
+L:\Info 10\Geldautomat\Geldautomat/Ausgabe.java
+L:\Info 10\Geldautomat\Geldautomat/AusgabePanel.java
+L:\Info 10\Geldautomat\Geldautomat/Linie.java
+L:\Info 10\Geldautomat\Geldautomat/anzeigeTest.java
+L:\Info 10\Geldautomat\Geldautomat/Taktgeber.java
+L:\Info 10\Geldautomat\Geldautomat/Behaelter.java
+L:\Info 10\Geldautomat\Geldautomat/StaticTools.java
+L:\Info 10\Geldautomat\Geldautomat/Segment8x.java
+L:\Info 10\Geldautomat\Geldautomat/Taste.java
+L:\Info 10\Geldautomat\Geldautomat/Hauptmenue.java
+L:\Info 10\Geldautomat\Geldautomat/Kreis.java
+<---- end of javadoc command ---->
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Bild.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Ellipse.java...
+L:\Info 10\Geldautomat\Geldautomat\Ellipse.java:5: error: unmappable character for encoding UTF-8
+ * Startwinkel und Bogenl?nge im Gradmass
+                         ^
+L:\Info 10\Geldautomat\Geldautomat\Ellipse.java:12: error: unmappable character for encoding UTF-8
+ *        Containerklasse f?r GUI-Elemente
+                           ^
+L:\Info 10\Geldautomat\Geldautomat\Ellipse.java:40: error: unmappable character for encoding UTF-8
+	 * Konstruktor f?r Hauptfenster
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Ellipse.java:47: error: unmappable character for encoding UTF-8
+	 * Konstruktor f?r Hauptfenster
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Ellipse.java:57: error: unmappable character for encoding UTF-8
+	 * Konstruktor f?r Hauptfenster
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Ellipse.java:108: error: unmappable character for encoding UTF-8
+	 *  Das Interface IComponente fordert eine Methode die eine BasisComponente zur?ckliefert.
+	                                                                               ^
+L:\Info 10\Geldautomat\Geldautomat\Ellipse.java:109: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Ellipse.java:109: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                                                         ^
+L:\Info 10\Geldautomat\Geldautomat\Ellipse.java:109: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                                                                       ^
+L:\Info 10\Geldautomat\Geldautomat\Ellipse.java:219: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	            ^
+L:\Info 10\Geldautomat\Geldautomat\Ellipse.java:219: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	                           ^
+L:\Info 10\Geldautomat\Geldautomat\Ellipse.java:219: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	                                                      ^
+L:\Info 10\Geldautomat\Geldautomat\Ellipse.java:242: error: unmappable character for encoding UTF-8
+	 * g?ltige Farben: "rot", "gelb", "blau", "gruen", "lila" , "schwarz" ,
+	    ^
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Rechteck.java...
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:7: error: unmappable character for encoding UTF-8
+ *     Hinzuf?gen von Statusvariablen f?r Position ...
+             ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:7: error: unmappable character for encoding UTF-8
+ *     Hinzuf?gen von Statusvariablen f?r Position ...
+                                       ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:11: error: unmappable character for encoding UTF-8
+ *        erg?nzt f?r Containerklasse f?r GUI-Elemente
+             ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:11: error: unmappable character for encoding UTF-8
+ *        erg?nzt f?r Containerklasse f?r GUI-Elemente
+                   ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:11: error: unmappable character for encoding UTF-8
+ *        erg?nzt f?r Containerklasse f?r GUI-Elemente
+                                       ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:33: error: unmappable character for encoding UTF-8
+	 * Konstruktor f?r Hauptfenster
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:40: error: unmappable character for encoding UTF-8
+	 * Konstruktor f?r Hauptfenster
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:50: error: unmappable character for encoding UTF-8
+	 * Konstruktor f?r Hauptfenster
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:87: error: unmappable character for encoding UTF-8
+	 *  Das Interface IComponente fordert eine Methode die eine BasisComponente zur?ckliefert.
+	                                                                               ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:88: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:88: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                                                         ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:88: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                                                                       ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:192: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	            ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:192: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	                           ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:192: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	                                                      ^
+L:\Info 10\Geldautomat\Geldautomat\Rechteck.java:215: error: unmappable character for encoding UTF-8
+	 * g?ltige Farben: "rot", "gelb", "blau", "gruen", "lila" , "schwarz" ,
+	    ^
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Eingabefeld.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\FeststellTaste.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Segment8x_B.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Bilddatei.java...
+L:\Info 10\Geldautomat\Geldautomat\Bilddatei.java:4: error: unmappable character for encoding UTF-8
+ * zum Anzeigen ?bergeben werden
+                ^
+L:\Info 10\Geldautomat\Geldautomat\Bilddatei.java:5: error: unmappable character for encoding UTF-8
+ * Das geschieht im Bild-Konstruktor oder ?ber die Bild-Mthode wechsleBild
+                                          ^
+L:\Info 10\Geldautomat\Geldautomat\Bilddatei.java:8: error: unmappable character for encoding UTF-8
+ * - Ein Bild kann mehreren Bildkomponenten zur Verf?gung gestellt werden.<br>
+                                                    ^
+L:\Info 10\Geldautomat\Geldautomat\Bilddatei.java:89: error: unmappable character for encoding UTF-8
+     * W?hle das Bild aus!
+        ^
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Dreieck.java...
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:7: error: unmappable character for encoding UTF-8
+ *     Hinzuf?gen von Statusvariablen f?r Position ...
+             ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:7: error: unmappable character for encoding UTF-8
+ *     Hinzuf?gen von Statusvariablen f?r Position ...
+                                       ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:19: error: unmappable character for encoding UTF-8
+ *        erg?nzt f?r Beh?lter f?r GUI-Elemente
+             ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:19: error: unmappable character for encoding UTF-8
+ *        erg?nzt f?r Beh?lter f?r GUI-Elemente
+                   ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:19: error: unmappable character for encoding UTF-8
+ *        erg?nzt f?r Beh?lter f?r GUI-Elemente
+                         ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:19: error: unmappable character for encoding UTF-8
+ *        erg?nzt f?r Beh?lter f?r GUI-Elemente
+                                ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:46: error: unmappable character for encoding UTF-8
+	 * Konstuktor f?r Hauptfenster
+	               ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:53: error: unmappable character for encoding UTF-8
+	 * Konstruktor f?r Hauptfenster
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:63: error: unmappable character for encoding UTF-8
+	 * Konstruktor f?r Hauptfenster
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:100: error: unmappable character for encoding UTF-8
+	 *  Das Interface IComponente fordert eine Methode die eine BasisComponente zur?ckliefert.
+	                                                                               ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:101: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:101: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                                                         ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:101: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                                                                       ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:111: error: unmappable character for encoding UTF-8
+	 *            M?gliche Werte: "N","O","S","W","NO","SO","SW","NW"
+	               ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:217: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	            ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:217: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	                           ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:217: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	                                                      ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:240: error: unmappable character for encoding UTF-8
+	 * g?ltige Farben: "rot", "gelb", "blau", "gruen", "lila" , "schwarz" ,
+	    ^
+L:\Info 10\Geldautomat\Geldautomat\Dreieck.java:291: error: unmappable character for encoding UTF-8
+		// Anfangskoordinaten f?r Dreieck setzen
+		                       ^
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Segment.java...
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:8: error: unmappable character for encoding UTF-8
+ *     Hinzuf?gen von Statusvariablen f?r Position ...
+             ^
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:8: error: unmappable character for encoding UTF-8
+ *     Hinzuf?gen von Statusvariablen f?r Position ...
+                                       ^
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:12: error: unmappable character for encoding UTF-8
+ *        Containerklasse f?r GUI-Elemente
+                           ^
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:38: error: unmappable character for encoding UTF-8
+	 * Konstruktor f?r Hauptfenster
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:45: error: unmappable character for encoding UTF-8
+	 * Konstruktor f?r Hauptfenster
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:55: error: unmappable character for encoding UTF-8
+	 * Konstruktor f?r Hauptfenster
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:94: error: unmappable character for encoding UTF-8
+	 *  Das Interface IComponente fordert eine Methode die eine BasisComponente zur?ckliefert.
+	                                                                               ^
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:95: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:95: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                                                         ^
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:95: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                                                                       ^
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:133: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	            ^
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:133: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	                           ^
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:133: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	                                                      ^
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:156: error: unmappable character for encoding UTF-8
+	 * g?ltige Farben: "rot", "gelb", "blau", "gruen", "lila" , "schwarz" ,
+	    ^
+L:\Info 10\Geldautomat\Geldautomat\Segment.java:165: error: unmappable character for encoding UTF-8
+	 * g?ltige Farben: "rot", "gelb", "blau", "gruen", "lila" , "schwarz" ,
+	    ^
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Zeichnung.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java...
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:6: error: unmappable character for encoding UTF-8
+ *         Version: 1.1 (14.7.2008) Hinzuf?gen von Statusvariablen f?r Position
+                                          ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:6: error: unmappable character for encoding UTF-8
+ *         Version: 1.1 (14.7.2008) Hinzuf?gen von Statusvariablen f?r Position
+                                                                    ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:9: error: unmappable character for encoding UTF-8
+ *         Version: 3 (12.8.2008) erg?nzt f?r Containerklasse f?r GUI-Elemente
+                                     ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:9: error: unmappable character for encoding UTF-8
+ *         Version: 3 (12.8.2008) erg?nzt f?r Containerklasse f?r GUI-Elemente
+                                           ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:9: error: unmappable character for encoding UTF-8
+ *         Version: 3 (12.8.2008) erg?nzt f?r Containerklasse f?r GUI-Elemente
+                                                               ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:32: error: unmappable character for encoding UTF-8
+	// Positionen werden ben?tigt f?r Gr??e ?ndern
+	                        ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:32: error: unmappable character for encoding UTF-8
+	// Positionen werden ben?tigt f?r Gr??e ?ndern
+	                               ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:32: error: unmappable character for encoding UTF-8
+	// Positionen werden ben?tigt f?r Gr??e ?ndern
+	                                    ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:32: error: unmappable character for encoding UTF-8
+	// Positionen werden ben?tigt f?r Gr??e ?ndern
+	                                     ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:32: error: unmappable character for encoding UTF-8
+	// Positionen werden ben?tigt f?r Gr??e ?ndern
+	                                        ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:39: error: unmappable character for encoding UTF-8
+	 * Konstuktor f?r Hauptfenster
+	               ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:46: error: unmappable character for encoding UTF-8
+	 * Konstruktor f?r Hauptfenster
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:55: error: unmappable character for encoding UTF-8
+	 * Konstruktor f?r Hauptfenster
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:100: error: unmappable character for encoding UTF-8
+	 *  Das Interface IComponente fordert eine Methode die eine BasisComponente zur?ckliefert.
+	                                                                               ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:101: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:101: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                                                         ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:101: error: unmappable character for encoding UTF-8
+	 *  Sie wird ben?tigt, um ein Objekt zu einem anderen Beh?lter hinzuzuf?gen
+	                                                                       ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:274: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	            ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:274: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	                           ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:274: error: unmappable character for encoding UTF-8
+	// Methode n?tig zum Hinzuf?gen mit Anpassung beim Beh?lter
+	                                                      ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:308: error: unmappable character for encoding UTF-8
+	 * g?ltige Farben: "rot", "gelb", "blau", "gruen", "lila" , "schwarz" ,
+	    ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment_B.java:323: error: unmappable character for encoding UTF-8
+	 * g?ltige Farben: "rot", "gelb", "blau", "gruen", "lila" , "schwarz" ,
+	    ^
+Loading source file L:\Info 10\Geldautomat\Geldautomat\SiebenSegment.java...
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment.java:6: error: unmappable character for encoding UTF-8
+ *         Version: 1.1 (14.7.2008) Hinzuf?gen von Statusvariablen f?r Position
+                                          ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment.java:6: error: unmappable character for encoding UTF-8
+ *         Version: 1.1 (14.7.2008) Hinzuf?gen von Statusvariablen f?r Position
+                                                                    ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment.java:9: error: unmappable character for encoding UTF-8
+ *         Version: 3 (12.8.2008) erg?nzt f?r Containerklasse f?r GUI-Elemente
+                                     ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment.java:9: error: unmappable character for encoding UTF-8
+ *         Version: 3 (12.8.2008) erg?nzt f?r Containerklasse f?r GUI-Elemente
+                                           ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment.java:9: error: unmappable character for encoding UTF-8
+ *         Version: 3 (12.8.2008) erg?nzt f?r Containerklasse f?r GUI-Elemente
+                                                               ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment.java:32: error: unmappable character for encoding UTF-8
+	// Positionen werden ben?tigt f?r Gr??e ?ndern
+	                        ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment.java:32: error: unmappable character for encoding UTF-8
+	// Positionen werden ben?tigt f?r Gr??e ?ndern
+	                               ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment.java:32: error: unmappable character for encoding UTF-8
+	// Positionen werden ben?tigt f?r Gr??e ?ndern
+	                                    ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment.java:32: error: unmappable character for encoding UTF-8
+	// Positionen werden ben?tigt f?r Gr??e ?ndern
+	                                     ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment.java:32: error: unmappable character for encoding UTF-8
+	// Positionen werden ben?tigt f?r Gr??e ?ndern
+	                                        ^
+L:\Info 10\Geldautomat\Geldautomat\SiebenSegment.java:39: error: unmappable character for encoding UTF-8
+	 * Konstuktor f?r Hauptfenster
+	               ^
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Quadrat.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Ausgabe.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\AusgabePanel.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Linie.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\anzeigeTest.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Taktgeber.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Behaelter.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\StaticTools.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Segment8x.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Taste.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Hauptmenue.java...
+Loading source file L:\Info 10\Geldautomat\Geldautomat\Kreis.java...
+100 errors

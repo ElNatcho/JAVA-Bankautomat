@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bilddatei()
+comment1.params=neueBreite\ neueHoehe
+comment1.target=Bilddatei(int,\ int)
+comment2.params=filename
+comment2.target=Bilddatei(java.lang.String)
+comment3.params=filename\ neueBreite\ neueHoehe
+comment3.target=Bilddatei(java.lang.String,\ int,\ int)
+comment4.params=neueBreite\ neueHoehe
+comment4.target=void\ einpassen(int,\ int)
+comment5.params=
+comment5.target=void\ erzeugeLeeresBild()
+comment6.params=filename
+comment6.target=void\ leseBildDatei(java.lang.String)
+comment6.text=\r\n\ W\uFFFDhle\ das\ Bild\ aus\!\r\n
+comment7.params=
+comment7.target=java.awt.image.BufferedImage\ leseBild()
+comment7.text=\r\n\ liefert\ das\ Bild\ an\ eine\ andere\ Komponente\r\n
+numComments=8

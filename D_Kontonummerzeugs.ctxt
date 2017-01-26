@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=D_Kontonummerzeugs()
+comment1.params=
+comment1.target=void\ xy()
+comment2.params=ziffer
+comment2.target=void\ fuegeKontonummerZifferHinzu(int)
+comment3.params=
+comment3.target=void\ andereKontonummereingabe()
+comment4.params=
+comment4.target=void\ andereKontonummereingabebest()
+comment5.params=
+comment5.target=void\ resetKontonummer()
+numComments=6

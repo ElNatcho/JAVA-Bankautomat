@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ATM()
+comment1.params=
+comment1.target=void\ Update()
+comment2.params=
+comment2.target=void\ starteAlarm()
+comment3.params=
+comment3.target=void\ KontoauszugDrucken()
+comment4.params=betrag
+comment4.target=void\ geld_auszahlen(int)
+comment5.params=betrag
+comment5.target=void\ geld_einzahlen(int)
+comment6.params=value
+comment6.target=void\ setKontoAngemeldet(boolean)
+comment7.params=
+comment7.target=boolean\ getKKStatus()
+comment8.params=
+comment8.target=void\ KKlogout()
+comment9.params=
+comment9.target=void\ handleKeyEvents()
+numComments=10
